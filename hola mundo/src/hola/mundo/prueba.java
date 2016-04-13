@@ -12,6 +12,5 @@ package hola.mundo;
 public class prueba {
     //Esta es una clase de prueba
     
-    linea de error
     
 }

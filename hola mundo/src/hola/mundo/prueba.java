@@ -10,5 +10,6 @@ package hola.mundo;
  * @author Jhon Martinez
  */
 public class prueba {
+    //Esta es una clase de prueba
     
 }
